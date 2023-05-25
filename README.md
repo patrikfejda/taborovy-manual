@@ -8,6 +8,7 @@
 6. [Tábor](5-camp.md)
 7. [Po tábore](6-after.md)
 8. [Zariadenie](7-site.md)
+9. [Papierovačky](9-legals.md)
 
 ## Na koho sa mam obratit?
 
