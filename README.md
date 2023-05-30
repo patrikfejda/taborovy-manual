@@ -1,4 +1,4 @@
-# Taborové knowhow
+# OBSAH
 
 1. [Dlho pred táborom](1-long-before.md)
 2. [Príprava pred táborom](2-before.md)
