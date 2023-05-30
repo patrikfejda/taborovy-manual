@@ -16,3 +16,5 @@
 - Stano - zlavy na tabor, zariadenie, pomoc s objednavkami
 - Andrej - zariadenie, objednavky stravy, vacsie objednavky, budget, parovanie platieb
 - Paťo - PR (vsetka komunikacia navonok), promo, fotky, socialne siete
+
+:mango:
