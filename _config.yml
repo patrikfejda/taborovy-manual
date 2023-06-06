@@ -1,0 +1,11 @@
+remote_theme: pmarsceill/just-the-docs
+color_scheme: dark
+mermaid:
+  version: "9.1.3"
+aux_links:
+  "Upraviť":
+    - "//github.com/patrikfejda/taborovy-manual"
+aux_links_new_tab: true
+
+
+

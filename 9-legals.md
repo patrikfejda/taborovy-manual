@@ -1,4 +1,4 @@
-# Paperovačky
+# PAPIEROVAČKY
 
 ## Čo pýtať od účastníkov
 
