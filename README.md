@@ -5,13 +5,3 @@
 - Andrej - zariadenie, objednavky stravy, vacsie objednavky, budget, parovanie platieb
 - Paťo - PR (vsetka komunikacia navonok), promo, fotky, socialne siete
 
-```mermaid
-stateDiagram-v2
-    [*] --> Still
-    Still --> [*]
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-
-```
