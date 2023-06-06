@@ -1,4 +1,8 @@
-# DLHO PRED TÁBOROM
+---
+layout: default
+title: DLHO PRED TÁBOROM
+nav_order: 2
+---
 
 ## Personálne záležitosti
 
