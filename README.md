@@ -1,3 +1,11 @@
+---
+layout: default
+title: Na koho sa mam obratit
+nav_order: 0
+---
+
+
+
 # Na koho sa mam obratit?
 
 - Jurgen - vztycny dostojnik pre otazky a problemy s pripravou a problemami na priprave
