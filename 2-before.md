@@ -1,5 +1,8 @@
-
-# MANAŽMENT PRÍPRAVY
+---
+layout: default
+title: Manažment prípravy
+order: 2
+---
 
 - Treba si spravit harmonogram co kedy treba mat done, treba mysliet aj na rezervu.
 
@@ -9,7 +12,7 @@
 - Myšlienka a Téma sú prioritou, ktorú musíte vyriešiť na prvých stretnutiach
 - Prejsť si aj s ostatnými animátormi spätné väzby z minulých rokov nech viete čomu venovať väčšiu pozornosť
 - Nahodiť libreto => témy dní a druhy aktivít v nich (vyváženosť!)
-- Vytvoriť prípravné skupinky, ktoré domyslia jednotlivé dni. 
+- Vytvoriť prípravné skupinky, ktoré domyslia jednotlivé dni.
 - Spraviť prezentovanie jednotlivých dní. Dať pozor aby bol dostatok času aj na druhú fázu. Odporúčame najneskôr mesiac a pol pred začiatkom tábora
 
 ## Druhá fáza
@@ -18,12 +21,12 @@
 - Poslať dotazník s preferenciami, do ktorej skupiny sa ktorý animátor chce pridať.
 - Jasne určiť vedúceho danej skupiny, je to predovšetkým preto aby ste vedeli s kým máte komunikovať a kto má komunikovať s vami v prípade úloh a nejasností.
 
-## Samostatné zodpovedné skupiny:
+## Samostatné zodpovedné skupiny
 
 - Manuálová skupinka
   - Upraviť dané dni a zjednotiť ich do jedného manuálu.
   - Každý deň by mal mať v manuále svoj harmonogram, od ktorého sa viete odrážať.
-  - Poriadne vysvetliť hry tj. pravidlá, potrebný materiál a potrebné počty ľudí a ich úlohy v manuále 
+  - Poriadne vysvetliť hry tj. pravidlá, potrebný materiál a potrebné počty ľudí a ich úlohy v manuále
   - Mať material spísaný čo najskôr pred táborom aby sa mohol začať zháňať.
 - Hymnová skupina
   - Vybrať hudbu +  text by mal byť chytľavý a zrozumiteľný

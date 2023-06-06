@@ -1,4 +1,8 @@
-# PAPIEROVAČKY
+---
+layout: default
+title: PAPIEROVAČKY
+order: 9
+---
 
 ## Čo pýtať od účastníkov
 

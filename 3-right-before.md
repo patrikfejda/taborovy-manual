@@ -1,4 +1,8 @@
-# 2-3 TÝŽDNE PRED TÁBOROM
+---
+layout: default
+title: 2-3 TÝŽDNE PRED TÁBOROM
+order: 3
+---
 
 ## Administratíva
 

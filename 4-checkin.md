@@ -1,4 +1,8 @@
-# NÁSTUP NA TÁBOR
+---
+layout: default
+title: NÁSTUP NA TÁBOR
+order: 4
+---
 
 - Zbierať od rodičov:
   - Doplatok za tábor

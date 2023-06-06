@@ -1,4 +1,8 @@
-# PO TÁBORE
+---
+layout: default
+title: PO TÁBORE
+order: 6
+---
 
 - je dobre si dat hodnotenie tabora so vsetkymi animatormi
 - mozte si dat kolecko nech kazdy povie co sa mu pacilo a co nie

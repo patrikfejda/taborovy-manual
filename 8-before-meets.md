@@ -1,4 +1,8 @@
-# PREDTÁBOROVÉ STRETNUTIA
+---
+layout: default
+title: PREDTÁBOROVÉ STRETNUTIA
+order: 8
+---
 
 - Datum stretnuti treba oznamit dlhsie dopredu (mesiac), aby si vsetci nasli cas.
 - Co odkomunikovat animatorom:

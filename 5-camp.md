@@ -1,5 +1,8 @@
-
-# NA TÁBORE
+---
+layout: default
+title: NA TÁBORE
+order: 5
+---
 
 - Karanténne izby - v prípade že nastane choroba na tábore, mať pripravenú možnosť kde dané deti ubytovať, kým nevyzdravejú/neprídu pre nich rodičia
 - Voľno na tábore - Mať ľudí zodpovedných za to aby animátori boli medzi deťmi a ponúkali deťom aktivity, ktoré môžu s nimi deti robiť počas voľna. Aktívne motivovať animátorov aby sa snažili byť medzi deťmi. Kludne spravte rozpis animatorov so sluzbami na konkretny cas.

@@ -1,4 +1,8 @@
-# ZARIADENIE
+---
+layout: default
+title: ZARIADENIE
+order: 7
+---
 
 - (za predpokladu že sa tábor odohráva na Tesároch) Je potrebné najskôr potvrdiť objednávku (prípadne riešiš s vedúcim Domky alebo saleziánom)
 - Zistiť, kedy môžeme prísť do areálu.
