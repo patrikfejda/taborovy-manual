@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manažment prípravy
+title: MANAŽMENT PRÍPRAVY
 order: 2
 ---
 
