@@ -1,6 +1,6 @@
 # Paperovačky
 
-## Čo pýtať od úcastníkov
+## Čo pýtať od účastníkov
 
 Tieto tlačívá je potrebné poslať účastníkom / rodičom pred akciou.
 Pri preberaní tlačiva o bezinfekčnosti je potrebné skontrolovať, či je na ňom správny dátum (nie starší ako 1 deň pred akciou).
