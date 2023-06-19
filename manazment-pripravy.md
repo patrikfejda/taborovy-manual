@@ -23,44 +23,63 @@ order: 2
 
 ## Samostatné zodpovedné skupiny
 
-- Manuálová skupinka
-  - Upraviť dané dni a zjednotiť ich do jedného manuálu.
-  - Každý deň by mal mať v manuále svoj harmonogram, od ktorého sa viete odrážať.
-  - Poriadne vysvetliť hry tj. pravidlá, potrebný materiál a potrebné počty ľudí a ich úlohy v manuále
-  - Mať material spísaný čo najskôr pred táborom aby sa mohol začať zháňať.
-- Hymnová skupina
-  - Vybrať hudbu +  text by mal byť chytľavý a zrozumiteľný
-  - Dostatočne včas dohodnúť čas a miesto nahrávania hymny
-  - Nebáť sa propagovať možnosť spievania hymny medzi animátormi
-- Tanečná skupina
-  - Vybrať hudbu
-  - Vymyslieť kroky tak, aby boli ľahko zapamätateľné
-- MTZ
-  - Komunikovať s manuálovou skupinkou ohľadom toho aký materiál je potrebný
-  - Zohnať animátorov mimo tímu na výrobu materiálu, ktorý treba ešte vyrobiť
-  - Spísať čo všetko treba kúpiť a kde (odovzdať bločky)
-  - Pomáhať s balením materialu
-- Kulisová skupina
-  - Spolupracovať s kostýmami a scénkami
-  - Včas začat vyrábať kulisy
-- Kostýmová skupina
-  - Spolupracovať s kulisami a scénkami
-  - Kostými vedia dotvoriť atmosféru, ale netreba to prehnať (je fajn ak si to vedia animátori zobrať sami, netreba komplikovať)
-- Scénková skupina
-  - Dať včas jasne vedieť čo treba vyrobiť / kúpiť a pod.
-  - Inštrukcie poskytne Tomáš 😀
-- Technika
-  - Mať hlavného technika
-  - Mať prehľad v technike, ktorá je v oratku a ktorú je možné brať na tábor
-  - Mať pripravené (a stiahnuté) playlisty na aktivity ale aj na voľno a  párty
-  - Zobrať vysielačky, šetrí čas, a zobrať dostatok náhradných bateriek AAA
-  - Zobrať okrem normálnej techniky fotoaparát a funkčný notebook.
-  - vopred komunikovať s programovou skupinkou, aby bolo možné všetko ozvučiť
-- Duchovná skupinka
-  - Ranné a večerné modlitby na každý deň
-  - Duchovný večer (aspoň jeden za tábor)
-  - Dať pozor aby tomu deti rozumeli (tiež možno vyskúšať alternativu pre starších a mladších)
-  - Na tábore rozpis omší; gitaru si treba vypýtať od zodpovedných ak neberiete vlastnú+ spevník
+### Manuálová skupinka
+
+- Upraviť dané dni a zjednotiť ich do jedného manuálu.
+- Každý deň by mal mať v manuále svoj harmonogram, od ktorého sa viete odrážať.
+- Poriadne vysvetliť hry tj. pravidlá, potrebný materiál a potrebné počty ľudí a ich úlohy v manuále
+- Mať material spísaný čo najskôr pred táborom aby sa mohol začať zháňať.
+
+### Hymnová skupina
+
+- Vybrať hudbu +  text by mal byť chytľavý a zrozumiteľný
+- Dostatočne včas dohodnúť čas a miesto nahrávania hymny
+- Nebáť sa propagovať možnosť spievania hymny medzi animátormi
+
+### Tanečná skupina
+
+- Vybrať hudbu
+- Vymyslieť kroky tak, aby boli ľahko zapamätateľné
+
+### MTZ
+
+- Komunikovať s manuálovou skupinkou ohľadom toho aký materiál je potrebný
+- Zohnať animátorov mimo tímu na výrobu materiálu, ktorý treba ešte vyrobiť
+- Spísať čo všetko treba kúpiť a kde (odovzdať bločky)
+- Pomáhať s balením materialu
+
+### Kulisová skupina
+
+- Spolupracovať s kostýmami a scénkami
+- Včas začat vyrábať kulisy
+
+### Kostýmová skupina
+
+- Spolupracovať s kulisami a scénkami
+- Kostými vedia dotvoriť atmosféru, ale netreba to prehnať (je fajn ak si to vedia animátori zobrať sami, netreba komplikovať)
+
+### Scénková skupina
+
+- Dať včas jasne vedieť čo treba vyrobiť / kúpiť a pod.
+- Inštrukcie poskytne Tomáš 😀
+
+### Technika
+
+- Mať hlavného technika
+- Mať prehľad v technike, ktorá je v oratku a ktorú je možné brať na tábor
+- Mať pripravené (a stiahnuté) playlisty na aktivity ale aj na voľno a  párty
+- Zobrať vysielačky, šetrí čas, a zobrať dostatok náhradných bateriek AAA
+- Zobrať okrem normálnej techniky fotoaparát a funkčný notebook.
+- vopred komunikovať s programovou skupinkou, aby bolo možné všetko ozvučiť
+
+### Duchovná skupinka
+
+- Ranné a večerné modlitby na každý deň
+- Duchovný večer (aspoň jeden za tábor)
+- Dať pozor aby tomu deti rozumeli (tiež možno vyskúšať alternativu pre starších a mladších)
+- Na tábore rozpis omší; gitaru si treba vypýtať od zodpovedných ak neberiete vlastnú+ spevník
+
+### Administratívna skupinka
 
 - Zistiť od animátorov, ktoré deti patria do ktorého stretka
 - Rozdeliť deti do skupiniek, skúsiť čo najmenej deliť stretká. (Je lepšie mať nerovnomerné skupinky ako mať jedno dieťa v zlej skupinke)
