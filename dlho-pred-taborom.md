@@ -35,17 +35,21 @@ nav_order: 1
 - pravidelne (minimalne raz za tyzden) posielat potvrdenia o platbe
 - Nastaviť podpis emailu:
 
-```text
-––
-
-S pozdravom,
-
-Meno a Priezvisko
-
-Letný detský tábor 2023
-
-Oratko Trnávka
-```
+>> ––
+>>
+>> S pozdravom,
+>>
+>> Meno a Priezvisko
+>>
+>> Letný detský tábor 2023
+>>
+>> Oratko Trnávka
+>>
+>> trnavka.sk
+>>
+>> facebook.com/trnavka
+>> 
+>> instagram.com/trnavka
 
 ## Interná komunikácia
 
