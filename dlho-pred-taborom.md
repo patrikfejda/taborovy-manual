@@ -33,7 +33,7 @@ nav_order: 1
 - vedúci a zodpovedni za papierovacky nech si pridá tento email do mobilu a pravidelne sleduje či mu nedošla nová pošta
 - na otazku rodica je potrebne odpovedat max do 24 hodin.
 - pravidelne (minimalne raz za tyzden) posielat potvrdenia o platbe
-- Nastaviť podpis emailu:
+- Nastaviť podpis emailu [podla tohto vzoru](public\email-signature.html)
 
 ## Interná komunikácia
 
