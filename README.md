@@ -1,8 +1,4 @@
----
-layout: default
-title: KONTAKTY
-order: 999
----
+# KONTAKTY
 
 - Jurgen - vztycny dostojnik pre otazky a problemy s pripravou a problemami na priprave
 - Stano - zlavy na tabor, zariadenie, pomoc s objednavkami
