@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2-3 TÝŽDNE PRED TÁBOROM
-order: 3
+order: 13
 ---
 - check [3-right-before.md](3-right-before.md) for the latest version of this document
 

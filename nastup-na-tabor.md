@@ -1,7 +1,7 @@
 ---
 layout: default
 title: NÁSTUP NA TÁBOR
-order: 4
+order: 14
 ---
 
 - Zbierať od rodičov:

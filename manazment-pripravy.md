@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MANAŽMENT PRÍPRAVY
-order: 2
+order: 12
 ---
 
 - Treba si spravit harmonogram co kedy treba mat done, treba mysliet aj na rezervu.

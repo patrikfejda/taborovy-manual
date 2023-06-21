@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PO TÁBORE
-order: 6
+order: 16
 ---
 
 - je dobre si dat hodnotenie tabora so vsetkymi animatormi

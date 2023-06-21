@@ -1,7 +1,7 @@
 ---
 layout: default
 title: NA TÁBORE
-order: 5
+order: 15
 ---
 
 - Karanténne izby - v prípade že nastane choroba na tábore, mať pripravenú možnosť kde dané deti ubytovať, kým nevyzdravejú/neprídu pre nich rodičia

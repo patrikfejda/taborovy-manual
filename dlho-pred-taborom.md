@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DLHO PRED TÁBOROM
-nav_order: 1
+nav_order: 11
 ---
 
 ## Personálne záležitosti

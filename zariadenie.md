@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ZARIADENIE
-order: 7
+order: 17
 ---
 
 - (za predpokladu že sa tábor odohráva na Tesároch) Je potrebné najskôr potvrdiť objednávku (prípadne riešiš s vedúcim Domky alebo saleziánom)
