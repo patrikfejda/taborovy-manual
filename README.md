@@ -1,7 +1,7 @@
 ---
 layout: default
 title: KONTAKTY
-nav_order: 20
+nav_order: 1
 ---
 
 - Jurgen - vztycny dostojnik pre otazky a problemy s pripravou a problemami na priprave
