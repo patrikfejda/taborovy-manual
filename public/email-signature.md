@@ -1,0 +1,47 @@
+<style>
+    * {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+</style>
+
+<table cellspacing="0" cellpadding="0" border="0">
+    <tr>
+        <td width="130">
+            <a href="https://trnavka.sk/" target="_blank" rel="noopener">
+                <img alt="Logo" width="108"
+                    src="https://raw.githubusercontent.com/patrikfejda/taborovy-manual/main/public/Logo_SDNT_Oratko-02.jpg">
+            </a>
+        </td>
+        <td>
+            <strong>Patrik Fejda</strong><br>
+            Letný detský tábor 2023<br>
+            Oratko Trnávka<br>
+            Okružná 13, 82104, Bratislava
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <a href="https://trnavka.sk/dajnato/" target="_blank" rel="noopener">
+                <img alt="Banner" width="350"
+                    src="https://raw.githubusercontent.com/patrikfejda/taborovy-manual/main/public/daj-na-to-banner.png">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <span><strong>Stay green</strong> - don't print this e-mail!</span>
+            <a href="https://www.facebook.com/Trnavka/" target="_blank" rel="noopener">
+                <img width="14" alt="facebook icon"
+                    src="https://www.mail-signatures.com/signature-generator/img/templates/csr/fb.png">
+            </a>
+            <a href="https://www.linkedin.com/company/trnavka" target="_blank" rel="noopener">
+                <img width="14" alt="linkedin icon"
+                    src="https://www.mail-signatures.com/signature-generator/img/templates/csr/ln.png">
+            </a>
+            <a href="https://www.instagram.com/trnavka_oratko/" target="_blank" rel="noopener">
+                <img width="14" alt="instagram icon"
+                    src="https://www.mail-signatures.com/signature-generator/img/templates/csr/it.png">
+            </a>
+        </td>
+    </tr>
+</table>

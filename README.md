@@ -1,7 +1,7 @@
 ---
 layout: default
 title: KONTAKTY
-order: 99
+order: 999
 ---
 
 - Jurgen - vztycny dostojnik pre otazky a problemy s pripravou a problemami na priprave
