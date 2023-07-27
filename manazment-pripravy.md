@@ -96,9 +96,9 @@ order: 12
 
 - Dať pozor na to aby v registrácii mali rodičia kolónku pre výber veľkosti trička
 - Dať prednosť najstarším skupinám vo výbere farby tričiek
-- Objednať tričká včas aby došli ešte pred táborom
+- Objednať tričká včas aby došli ešte pred táborom (odporúčam aspoň mesiac pred táborom)
 - Vytvoriť malý team ktorý bude mať dizajn na starosti
-- Pokojne začať riešiť dizajn tričiek už na začiatku prípravy tábora keď bude jasná téma.
+- Pokojne začať riešiť dizajn tričiek už na začiatku prípravy tábora keď bude jasná téma
 
 ## Program
 
