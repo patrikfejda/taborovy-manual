@@ -28,7 +28,6 @@ Podpisovať prezenčky treba **MODRÝM PEROM** a nemôžu sa používať skratky
 1. Verzia s predpísanou verziou dátumu - treba pred tlačou prepísať ([Word]())
 2. Verzia bez dátumu - nepísať dátum ([Word](), [PDF]())
 
-
 ### Čo ďalej s prezenčkami?
 
 Podpísané prezenčky dajte do euroobalu/obálky a na zvlášť papier napíšte:
