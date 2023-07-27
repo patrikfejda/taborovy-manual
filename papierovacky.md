@@ -16,6 +16,8 @@ Pri preberaní tlačiva o bezinfekčnosti je potrebné skontrolovať, či je na 
 
 Prezenčky treba mať nachystané na registrácií na akciu a dávať ich priamo tam podpisovať. Pred vytlačením treba vo Word verzií zmeniť `Dátum a čas konania` - treba dodržať predpísaný formát.
 
+Podpisovať prezenčky treba **MODRÝM PEROM** a nemôžu sa používať skratky (pekne treba vypísať mesto Bratislava, nie len BA) !
+
 1. Verzia s predpísanou verziou dátumu - treba pred tlačou prepísať ([Word](downloads/Prezencna_listina_na_podujatie_s_dotáciou_MŠVVaŠ_SR.docx))
 2. Verzia bez dátumu - nepísať dátum ([Word](downloads/Prezencna_listina_na_podujatie_s_dotáciou_MŠVVaŠ_SR_verzia_bez_datumu.docx), [PDF](downloads/Prezencna_listina_na_podujatie_s_dotáciou_MŠVVaŠ_SR_verzia_bez_datumu.pdf))
 
