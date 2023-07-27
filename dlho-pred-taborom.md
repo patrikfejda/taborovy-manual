@@ -26,14 +26,17 @@ nav_order: 11
 
 - Ak daco z tohto neviete urobit, [**pozrite si videonavody tu!**](https://drive.google.com/drive/u/1/folders/17_TGDu3qapdayFC8Ift-yHTx0octh5qv)
 - Vytvorit si email tabora napr. <ldt2023@trnavka.sk> (u Patrika)
-- K emailu si na slacku vytvorte aj kanal v tvare “email-ldt-2023”. Tento kanal sluzi na to, ze sa do neho budu automaticky preposielat vsetky emaily poslane na email vasho tabora. Tento kanal prosim pouzivajte na to, ze ked si nebudude vediet rady - tak tagnete niekoho a v threade emailu sa zladite (napr bude treba daco s Domkou abo daco). Zaroven prosim, ked vybavite nejaky email (odpisete) tak dajte ✅ ma spravu. Nastavi sa to tak, ze vytvrorite kanal, najdete jeho emailovu adresu a nastavite preposielanie - je to vo videonavodoch. Do kanala pridajte Patrika.
-- Ked nastavite preposielanie sprav z emailu do slacku, tak realne vyskusajte poslat spravu na ten vas email a sledujte ci prisiel do slacku.
 - v podpisoch emailu VZDY pouzivajte svoje meno, nikdy nie ze “animatori”, “organizacny team” atd
 - prístup k emailu majú IBA nevyhnutní ľudí (vedúci, zodpovedný za papierovačky)
 - vedúci a zodpovedni za papierovacky nech si pridá tento email do mobilu a pravidelne sleduje či mu nedošla nová pošta
 - na otazku rodica je potrebne odpovedat max do 24 hodin.
 - pravidelne (minimalne raz za tyzden) posielat potvrdenia o platbe
 - Nastaviť podpis emailu [podla tohto vzoru](public\email-signature.html)
+- K emailu si na slacku vytvorte aj kanal v tvare “email-ldt-2023”
+
+> Tento kanal sluzi na to, ze sa do neho budu automaticky preposielat vsetky emaily poslane na email vasho tabora. Tento kanal prosim pouzivajte na to, ze ked si nebudude vediet rady - tak tagnete niekoho a v threade emailu sa zladite (napr bude treba daco s Domkou abo daco). Zaroven prosim, ked vybavite nejaky email (odpisete) tak dajte ✅ ma spravu. Nastavi sa to tak, ze vytvrorite kanal, najdete jeho emailovu adresu a nastavite preposielanie - je to vo videonavodoch. Do kanala pridajte Patrika.
+
+- Ked nastavite preposielanie sprav z emailu do slacku, tak realne vyskusajte poslat spravu na ten vas email a sledujte ci prisiel do slacku.
 
 ## Interná komunikácia
 
