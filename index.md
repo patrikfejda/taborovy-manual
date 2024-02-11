@@ -14,6 +14,7 @@ lesson learnt z 2023:
 - posielat faktúry ak si o to rodicia zaziadaju
 - predom si dohodnut storno policy na tabory, napisat do prihlasovania
 - nejako zariadit aby sme nemali bottleneck na Andrejovi ked kuka ucet
+- gdpr papier mat vytlaceny na registracii, dop;nit do neho adresata (dommka trnavka)
 
 DOPLNIT DO MANUALU:
 
