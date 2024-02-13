@@ -5,7 +5,7 @@ nav_order: 20
 ---
 
 - Jurgen - vztycny dostojnik pre otazky a problemy s pripravou a problemami na priprave
-- Cyro/Stano - zlavy na tabor, zariadenie, pomoc s objednavkami
+- Cyro - zlavy na tabor, zariadenie, pomoc s objednavkami
 - Andrej - zariadenie, objednavky stravy, vacsie objednavky, budget, parovanie platieb
 - Paťo - PR (vsetka komunikacia navonok), promo, fotky, socialne siete
 
@@ -28,5 +28,5 @@ DOPLNIT DO MANUALU:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3NTgwMDg4XX0=
+eyJoaXN0b3J5IjpbLTY1ODQyODE1NF19
 -->
