@@ -52,3 +52,6 @@ nav_order: 11
 ## Doprava
 
 - Treba s veducim oratka / domky poriesit dopravu autobusmi na miesto tabora
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyNDA2NDI5NjddfQ==
+-->
