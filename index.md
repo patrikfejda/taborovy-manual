@@ -27,3 +27,6 @@ DOPLNIT DO MANUALU:
 - foto - flickr
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzc3NTgwMDg4XX0=
+-->
