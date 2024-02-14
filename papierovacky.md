@@ -21,7 +21,7 @@ Prezenčky treba mať nachystané na registrácií na akciu a dávať ich priamo
 
 Tiež ich nájdete na [shared drive Oratko > Papierovačky](https://drive.google.com/drive/u/0/folders/1MF6L5Du43rDWtzL6jPQwSMUZsupUNp2f).
 
-Pozor, podľa typu akcie sa používajú iné prezenčky 
+Pozor, podľa typu akcie sa používajú iné prezenčky - na jednodňové akcie a viacdňové pobytové akcie so spaním sa požíva jeden typ prezenčky a viacdňové akcie bez spania (lpt) sa požíva iný typ. Na drive sú tieto prezenčky blbovzdorne pomernované.
 
 Podpisovať prezenčky treba **MODRÝM PEROM** a nemôžu sa používať skratky (pekne treba vypísať mesto Bratislava, nie len BA) !
 
@@ -48,5 +48,5 @@ Toto nechajte buď v Domke alebo vhoďte do Domka schránky (v čajovni pred Dom
 
 Vyplnené prezenčky neberte na akciu, stratia sa (learnt the hard way).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNTA0OTc5XX0=
+eyJoaXN0b3J5IjpbLTYwNjU4MjExNl19
 -->
