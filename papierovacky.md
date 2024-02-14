@@ -19,9 +19,13 @@ Tlačívá nájdete na [shared drive Oratko > Papierovačky](https://drive.googl
 
 Prezenčky treba mať nachystané na registrácií na akciu a dávať ich priamo tam podpisovať. 
 
+Tiež ich nájdete na [shared drive Oratko > Papierovačky](https://drive.google.com/drive/u/0/folders/1MF6L5Du43rDWtzL6jPQwSMUZsupUNp2f).
+
+Pozor, podľa typu akcie sa používajú iné prezenčky 
+
 Podpisovať prezenčky treba **MODRÝM PEROM** a nemôžu sa používať skratky (pekne treba vypísať mesto Bratislava, nie len BA) !
 
-### Prezenčky na jednodňové akcie a viacdňové akcie so spaním (LDT, LZT)
+Prezenčky na jednodňové akcie a viacdňové akcie so spaním (LDT, LZT)
 
 1. Verzia s predpísanou verziou dátumu - treba pred tlačou prepísať ([Word](downloads/Prezencna_listina_na_podujatie_s_dotáciou_MŠVVaŠ_SR.docx))
 2. Verzia bez dátumu - nepísať dátum ([Word](downloads/Prezencna_listina_na_podujatie_s_dotáciou_MŠVVaŠ_SR_verzia_bez_datumu.docx), [PDF](downloads/Prezencna_listina_na_podujatie_s_dotáciou_MŠVVaŠ_SR_verzia_bez_datumu.pdf))
@@ -44,5 +48,5 @@ Toto nechajte buď v Domke alebo vhoďte do Domka schránky (v čajovni pred Dom
 
 Vyplnené prezenčky neberte na akciu, stratia sa (learnt the hard way).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzY2MTU2Nl19
+eyJoaXN0b3J5IjpbNTAxNTA0OTc5XX0=
 -->
