@@ -9,14 +9,15 @@ order: 19
 Tieto tlačívá je potrebné poslať účastníkom / rodičom pred akciou.:
 1. Potvrdenie o bezinfekčnosti a zdravotnej spôsobilosti 
 2. Súhlas so spracovaním osobných údajov 
-Pri preberaní tlačiva o bezinfekčnosti je potrebné skontrolovať, či je na ňom správny dátum (nie starší ako 1 deň pred akciou).
+ 
+**Pri preberaní tlačiva o bezinfekčnosti je potrebné skontrolovať, či je na ňom správny dátum (nie starší ako 1 deň pred akciou).**
 
-1. Potvrdenie o bezinfekčnosti a zdravotnej spôsobilosti ([Word](downloads/Potvrdenie_o_bezinfekcnosti_a_zdravotnom_stave-na_denny_aj_pobytovy_tabor.docx), [PDF](downloads/Potvrdenie_o_bezinfekcnosti_a_zdravotnom_stave-na_denny_aj_pobytovy_tabor.pdf))
-2. Súhlas so spracovaním osobných údajov ([Word](downloads/Suhlas_so_spracovanim_osobnych_udajov-na_denny_aj_pobytovy_tabor.docx), [PDF](downloads/Suhlas_so_spracovanim_osobnych_udajov-na_denny_aj_pobytovy_tabor.pdf))
+Tlačívá nájdete na [shared drive Oratko > Papierovačky](https://drive.google.com/drive/u/0/folders/1MF6L5Du43rDWtzL6jPQwSMUZsupUNp2f).
+
 
 ## Prezenčky
 
-Prezenčky treba mať nachystané na registrácií na akciu a dávať ich priamo tam podpisovať. Pred vytlačením treba vo Word verzií zmeniť `Dátum a čas konania` - treba dodržať predpísaný formát.
+Prezenčky treba mať nachystané na registrácií na akciu a dávať ich priamo tam podpisovať. 
 
 Podpisovať prezenčky treba **MODRÝM PEROM** a nemôžu sa používať skratky (pekne treba vypísať mesto Bratislava, nie len BA) !
 
@@ -43,5 +44,5 @@ Toto nechajte buď v Domke alebo vhoďte do Domka schránky (v čajovni pred Dom
 
 Vyplnené prezenčky neberte na akciu, stratia sa (learnt the hard way).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTIyOTNdfQ==
+eyJoaXN0b3J5IjpbLTE2NzY2MTU2Nl19
 -->
