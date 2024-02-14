@@ -9,6 +9,7 @@ order: 19
 Tieto tlačívá je potrebné poslať účastníkom / rodičom pred akciou.:
 1. Potvrdenie o bezinfekčnosti a zdravotnej spôsobilosti 
 2. Súhlas so spracovaním osobných údajov 
+
  
 **Pri preberaní tlačiva o bezinfekčnosti je potrebné skontrolovať, či je na ňom správny dátum (nie starší ako 1 deň pred akciou).**
 
@@ -38,5 +39,5 @@ Toto nechajte buď v Domke alebo vhoďte do Domka schránky (v čajovni pred Dom
 
 Vyplnené prezenčky neberte na akciu, stratia sa (learnt the hard way).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTgwMTkwMjBdfQ==
+eyJoaXN0b3J5IjpbMTE5MjcwNTIyMiwtMTc5ODAxOTAyMF19
 -->
