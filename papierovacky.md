@@ -25,16 +25,6 @@ Pozor, podľa typu akcie sa používajú iné prezenčky - na jednodňové akcie
 
 Podpisovať prezenčky treba **MODRÝM PEROM** a nemôžu sa používať skratky (pekne treba vypísať mesto Bratislava, nie len BA) !
 
-Prezenčky na jednodňové akcie a viacdňové akcie so spaním (LDT, LZT)
-
-1. Verzia s predpísanou verziou dátumu - treba pred tlačou prepísať ([Word](downloads/Prezencna_listina_na_podujatie_s_dotáciou_MŠVVaŠ_SR.docx))
-2. Verzia bez dátumu - nepísať dátum ([Word](downloads/Prezencna_listina_na_podujatie_s_dotáciou_MŠVVaŠ_SR_verzia_bez_datumu.docx), [PDF](downloads/Prezencna_listina_na_podujatie_s_dotáciou_MŠVVaŠ_SR_verzia_bez_datumu.pdf))
-
-### Prezenčky viacdňové akcie bez spania (LPT)
-
-1. Verzia s predpísanou verziou dátumu - treba pred tlačou prepísať ([Word]())
-2. Verzia bez dátumu - nepísať dátum ([Word](), [PDF]())
-
 ### Čo ďalej s prezenčkami?
 
 Podpísané prezenčky dajte do euroobalu/obálky a na zvlášť papier napíšte:
@@ -48,5 +38,5 @@ Toto nechajte buď v Domke alebo vhoďte do Domka schránky (v čajovni pred Dom
 
 Vyplnené prezenčky neberte na akciu, stratia sa (learnt the hard way).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjU4MjExNl19
+eyJoaXN0b3J5IjpbLTE3OTgwMTkwMjBdfQ==
 -->
