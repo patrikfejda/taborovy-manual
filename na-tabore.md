@@ -40,3 +40,6 @@ order: 15
   - Akým spôsobom fungovať v jedálni, najmä pri raňajkách
   - Ozvať sa ak niečo nefunguje/chýba
 - Vedúci musia dostatočne komunikovať aj medzi sebou (vysielačky sú tiež fajn)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTczNDQ3NDUxMl19
+-->
