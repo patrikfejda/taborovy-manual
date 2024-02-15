@@ -11,3 +11,6 @@ order: 17
 - Zistiť od zariadenie, v akých časoch sa podáva jedlo a prispôsobiť tomu manuál. Na tábore sa snažiť o dochvíľnosť.
 - Nezabudnúť vyriešiť miestnosť pre mtz
 - Akékoľvek zmluvy a papiere so zariadením podpisuje salezián alebo vedúci Domky
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE2NTMzMTE3M119
+-->
