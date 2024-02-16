@@ -28,3 +28,6 @@ order: 13
 - Veci, ktoré idú do autobusov mať pripravené na prepravu v krabiciach
 - Je dobré mať krabice s materiálom zorganizované podľa dní, na ktoré sa daný material bude používať. Šetrí to čas pri vybaľovaní, predovšetkým na nultý deň.
 - Nezabudnúť zbaliť aj voľnočasový materiál
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNDE1NzI0NjFdfQ==
+-->
