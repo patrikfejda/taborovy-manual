@@ -87,7 +87,10 @@ order: 12
 
 ### Hospodár
 
-
+- jedna zodpovedná osoba
+- musí zbierať všetky bločky a faktúry
+- priebežne trackuje budget
+- na konci tábora vyhodnotí ce
 
 ## Vyzbierat si udaje od animátorov
 
@@ -111,5 +114,5 @@ order: 12
 - Nemať výlet len preto aby sme nejaký mali
 - Večer pre skupinku by mohol byť zo začiatku tábora aby sa mohla skupinka utužiť.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNjU3ODM2XX0=
+eyJoaXN0b3J5IjpbMTA3OTEzNTcwOF19
 -->
