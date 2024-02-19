@@ -88,10 +88,12 @@ order: 12
 ### Hospodár
 
 - jedna zodpovedná osoba
+- je zodpobewd
 - musí zbierať všetky bločky a faktúry
+- bločky odovzdáva domka účto tímu
+- zastrešuje preplácania bločkov
 - priebežne trackuje budget tábora
 - na konci tábora vyhodnotí náklady, rozdelí náklady do kategórií
-- 
 
 ## Vyzbierat si udaje od animátorov
 
@@ -115,5 +117,5 @@ order: 12
 - Nemať výlet len preto aby sme nejaký mali
 - Večer pre skupinku by mohol byť zo začiatku tábora aby sa mohla skupinka utužiť.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTgwODk3MzldfQ==
+eyJoaXN0b3J5IjpbLTE3NDEwNTU2NV19
 -->
