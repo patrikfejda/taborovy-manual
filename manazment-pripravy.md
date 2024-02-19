@@ -88,7 +88,7 @@ order: 12
 ### Hospodár
 
 - jedna zodpovedná osoba
-- je zodpovedný za to, aby všetky bločky boli zaplatené spr'
+- je zodpovedný za to, aby všetky bločky boli zaplatené správne (cash, domka karta)
 - musí zbierať všetky bločky a faktúry
 - bločky odovzdáva domka účto tímu
 - zastrešuje preplácania bločkov
@@ -117,5 +117,5 @@ order: 12
 - Nemať výlet len preto aby sme nejaký mali
 - Večer pre skupinku by mohol byť zo začiatku tábora aby sa mohla skupinka utužiť.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTM2OTg2N119
+eyJoaXN0b3J5IjpbMjE5MjA2NTAzXX0=
 -->
