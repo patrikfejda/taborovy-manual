@@ -85,6 +85,10 @@ order: 12
 - Rozdeliť deti do skupiniek, skúsiť čo najmenej deliť stretká. (Je lepšie mať nerovnomerné skupinky ako mať jedno dieťa v zlej skupinke)
 - Rozdeliť deti do izieb, ak sa deti nedajú ubytovať čisto po skupinkách snažiť sa aby nebolo dieťa samé s inou skupinkou. (je lepšie mať 4 chatky po troch ak sa deti ako tak poznajú ako mať 3 chatky po štyroch)
 
+### Hospodár
+
+
+
 ## Vyzbierat si udaje od animátorov
 
 - Alergie/intolerance animátorov
@@ -106,3 +110,6 @@ order: 12
 - Skúsiť si otestovať nové aktivity pred začiatkom tábora na animátoroch
 - Nemať výlet len preto aby sme nejaký mali
 - Večer pre skupinku by mohol byť zo začiatku tábora aby sa mohla skupinka utužiť.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODkwNjU3ODM2XX0=
+-->
