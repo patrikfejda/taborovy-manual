@@ -37,11 +37,7 @@ nav_order: 11
 
 - Nechajte si vyrobit priecinok na vas tabor na shared disku u Patrika ([link](https://drive.google.com/drive/u/1/folders/0AOf5hAhweZ_cUk9PVA))
 - **Pouzivajte vyhradne tento priecinok a ziadny iny**
-- Dajte pristup k tomuto priecinku vsetkym animatotom
 
 ## Doprava
 
 - Treba s veducim oratka / domky poriesit dopravu autobusmi na miesto tabora
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA2NDI5NjddfQ==
--->
